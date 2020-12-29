@@ -1,0 +1,17 @@
+/* soymizra - https://soymizra.com */
+
+/* TEAM */
+Desarrollador Web: Jorge Mizrain Aguilar.
+Site: hola@soymizra.com, enlace a formulario de contacto, ...
+Twitter: @soymizra.
+Location: Tegucigalpa, Honduras.
+
+/* THANKS */
+Name: Jonmircha
+
+
+/* SITE */
+Last update: YYYY/MM/DD
+Standards: HTML5, CSS3, ...
+Components: Modernizr, jQuery, etc.
+Software: Software usado para el desarrollo del site.

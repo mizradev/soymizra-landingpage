@@ -1,0 +1,50 @@
+{
+  "name": "soymizra",
+  "short_name": "soymizra.com",
+  "description": "Hola bienvenid@ a mi Portafolio Profesional, soy Jorge Mizrain Aguilar, Desarrollador Web",
+  "background_color": "#0D2738",
+  "theme_color": "#0D2738",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": "./?utm=homescreen",
+  "scope": "./",
+  "lang": "es",
+  "icons": [
+    {
+      "src": "./img/Icon-512.png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "./img/Icon-384.png",
+      "sizes": "384x384"
+    },
+    {
+      "src": "./img/Icon-256.png",
+      "sizes": "256x256"
+    },
+    {
+      "src": "./img/Icon-192.png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "./img/Icon-128.png",
+      "sizes": "128x128"
+    },
+    {
+      "src": "./img/Icon-87.png",
+      "sizes": "87x87"
+    },
+    {
+      "src": "./img/Icon-64.png",
+      "sizes": "64x64"
+    },
+    {
+      "src": "./img/Icon-32.png",
+      "sizes": "32x32"
+    },
+    {
+      "src": "./img/Icon-16.png",
+      "sizes": "16x16"
+    }
+  ]
+}
